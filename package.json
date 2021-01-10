@@ -1,0 +1,32 @@
+{
+  "name": "stacja",
+  "version": "1.0.0",
+  "description": "stacja pogodowa - API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "keywords": [
+    "API",
+    "rest",
+    "stacja pogodowa",
+    "pogoda",
+    "obserwacje",
+    "projekt"
+  ],
+  "author": "Michał Piotrowski",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.0",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongodb": "^3.6.3",
+    "mongoose": "^5.11.10",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
