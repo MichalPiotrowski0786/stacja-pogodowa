@@ -1,6 +1,0 @@
-{
-  "env": {
-    "hasloDB": "admin", 
-    "hasloJWT": "admin" 
-  }
-}
