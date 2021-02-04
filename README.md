@@ -43,3 +43,5 @@ router.post('/login', UserContoller.user_login); - metoda POST umożliwia logowa
 user_signup - kontroler odpowiedzialny za rejestracje
 user_delete - kontroler odpowiedzialny za usunięcie konta
 user_login - kontroler odpowiedzialny za logowanie i wygenerowanie tokenu JWT
+
+Autorzy: Oskar Cyms, Michał Piotrowski
